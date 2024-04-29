@@ -1,0 +1,109 @@
+.curriculo{
+height: 1300px;
+width: 50%;
+background-color: rgb(244, 244, 244);
+margin-left:25% ;
+border: solid 3px black;
+}
+
+#nombre{
+font-size: 50px;
+text-align: center;
+}
+
+#trabajo{
+font-size: 20px;
+margin-left: 22%;
+
+}
+
+.dato{
+
+grid-template-columns:20px 100px 20px 170px 28px 100px ;
+
+border-bottom: 3px solid black ;
+}
+
+.dato2{
+display: flex;
+justify-content: space-around;
+align-items: center;
+height: 50px;
+width: 100%;
+padding-bottom: 30px;
+
+}
+
+
+.ICONO{
+    margin-left: 12px;
+margin-right: 12px;
+
+}
+
+
+#skil{
+width: 100%;
+height: 400px;
+
+
+}
+
+.personalskil{
+
+    padding: 12px;
+}
+
+.icono2{
+height: 100px;
+width: 100%;
+
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.icono3{
+
+}
+
+.icono4{
+
+}
+
+.icono5{
+
+}
+
+.icono6{
+
+}
+
+.icono7{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

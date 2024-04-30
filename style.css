@@ -7,13 +7,13 @@ border: solid 3px black;
 }
 
 #nombre{
-font-size: 50px;
+font-size: 60px;
 text-align: center;
 }
 
 #trabajo{
 font-size: 20px;
-margin-left: 22%;
+margin-left: 26%;
 
 }
 
@@ -64,28 +64,45 @@ align-items: center;
 }
 
 .icono3{
-
+width:120px ;
+height:150px ;
 }
 
 .icono4{
-
+    width:120px ;
+height:150px ;
 }
 
 .icono5{
-
+    width:150px ;
+    height:150px ;;
 }
 
 .icono6{
-
+    width:150px ;
+height:150px ;
 }
 
 .icono7{
-
+    width:150px ;
+    height:150px ;
 }
 
+.segundo2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-top: -200px;
 
+}
+.texDeSegundoEspacio{
+    height: 500px;
+    background-color: blue;
+}
 
-
+.imgSegundoEspacio{
+    height: 500px;
+    background-color: red;
+}
 
 
 

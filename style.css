@@ -1,5 +1,5 @@
 .curriculo{
-height: 1300px;
+height: 1500px;
 width: 50%;
 background-color: rgb(244, 244, 244);
 margin-left:25% ;
@@ -90,31 +90,55 @@ height:150px ;
 
 .segundo2{
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 60% 40%;
     margin-top: -200px;
 
 }
 .texDeSegundoEspacio{
-    height: 500px;
-    background-color: blue;
+    height: 670px;
+    background-color: rgb(244, 244, 244);
 }
 
 .imgSegundoEspacio{
-    height: 500px;
-    background-color: red;
+    height:670px ;
+   
+}
+
+#esperenciatitulo{
+margin-left: 50px;
+}
+
+#liceria{
+margin-left: 50px;
+font-size: 25px;
+
+}
+li{
+font-size: 24px;
+
+}
+
+.profe1{
+    height:600px ;;
+width:300px ;
+object-fit: cover;
+
 }
 
 
+.classgrid{
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+height: 348px;
+width: 100%;
+background-color: rgb(203, 0, 0);
+}
 
 
+.grid2{
+border-left:solid 3px black;
 
-
-
-
-
-
-
-
+}
 
 
 

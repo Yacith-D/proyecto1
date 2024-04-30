@@ -100,7 +100,7 @@ height:150px ;
 }
 
 .imgSegundoEspacio{
-    height:670px ;
+    height:600px ;
    
 }
 
@@ -175,9 +175,9 @@ border-left:solid 5px black;
 
 }
 
-.by{
-font-size: 1px;
-
+#by{
+font-size: 30px;
+margin-left: 29px;
 
 
 }

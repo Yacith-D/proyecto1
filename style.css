@@ -13,7 +13,7 @@ text-align: center;
 
 #trabajo{
 font-size: 20px;
-margin-left: 26%;
+margin-left: 22%;
 
 }
 
@@ -129,19 +129,58 @@ object-fit: cover;
 .classgrid{
 display: grid;
 grid-template-columns: repeat(2, 1fr);
-height: 348px;
+height: 320px;
 width: 100%;
-background-color: rgb(203, 0, 0);
-}
+background-color: rgb(244, 244, 244);
 
+ }
 
 .grid2{
-border-left:solid 3px black;
 
 }
 
 
+#educacion{
+margin-left: 30px;
+margin-top: 30px;
+font-size: 30px;
+}
 
+#cer{
+margin-top:-12px ;
+
+}
+
+.iconitos{
+ display: grid;   
+grid-template-columns: repeat(2, 5px);
+gap: 4em;
+grid-auto-rows: 40px;
+margin-left: 50px;
+column-gap: 5em;
+margin-top: 100px;
+height: 200px;
+
+ }
+
+
+.fotitos{
+    height:50px;
+    width: 50px;
+ }
+
+
+.border{
+border-left:solid 5px black;
+
+}
+
+.by{
+font-size: 1px;
+
+
+
+}
 
 
 

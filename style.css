@@ -100,7 +100,7 @@ height:150px ;
 }
 
 .imgSegundoEspacio{
-    height:600px ;
+    height:400px ;
    
 }
 
@@ -195,31 +195,53 @@ font-size: 40px;
 box-shadow: 18px 20px 9px ;
 border-radius: 15px;
 width: 600px;
-background-color: rgb(143, 235, 38);
-margin-left: 70px;
+background-color: rgb(184, 172, 173);
+margin-left: 190px;
 }
 
 
 #input1{
- 
-    font-size: 25px;
+margin-top: 120px;
+font-size: 30px;
 }
 
 #input2{
-    font-size: 25px;
+    font-size: 30px;
 }
 
 #input3{
-    font-size: 25px;
+    font-size: 30px;
 
 }
 
 
+#botonEnviar{
+margin-top: 100px;
+font-size: 27px;
+margin-left: 100px;
+background-color: rgb(196, 196, 196);
+border-radius: 20px;
+box-shadow: -12px 15px  13px;
+}
 
+#texto1{
+font-size: 30px;
+margin-left: 30px;
+height: 500px;
 
+}
 
+.container{
+display: grid;
+grid-template-columns: 60% 40%;
+background-color: aqua;
+}
 
+.container2{
+   
+background-color: rgb(255, 255, 255);
 
+}
 
 
 

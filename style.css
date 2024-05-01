@@ -190,6 +190,43 @@ margin-top: 70px;
 
 }
 
+#informacion{
+font-size: 40px;
+box-shadow: 18px 20px 9px ;
+border-radius: 15px;
+width: 600px;
+background-color: rgb(143, 235, 38);
+margin-left: 70px;
+}
+
+
+#input1{
+ 
+    font-size: 25px;
+}
+
+#input2{
+    font-size: 25px;
+}
+
+#input3{
+    font-size: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

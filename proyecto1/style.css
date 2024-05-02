@@ -196,24 +196,41 @@ box-shadow: 18px 20px 9px ;
 border-radius: 15px;
 width: 600px;
 background-color: rgb(184, 172, 173);
-margin-left: 190px;
+margin-left: 180px;
 color: blue;
 }
 
 
 #input1{
-margin-top: 120px;
-font-size: 30px;
+font-size: 20px;
+margin-top: 40px;
+width: 600px;
+
 }
 
 #input2{
-    font-size: 30px;
+    font-size: 20px;
+    margin-top: 12px;
+    width: 600px;
+
 }
 
 #input3{
-    font-size: 30px;
+    font-size: 20px;
+ margin-top: 30px;
+ width: 600px;
 
 }
+
+#input4{
+    font-size: 20px;
+    margin-top: 12px;
+    width: 600px;
+  
+}
+
+
+
 
 
 #botonEnviar{
@@ -250,7 +267,7 @@ background-color: aqua;
 }
 
 #contacto{
-margin-left: 60px;
+margin-left: 1px;
 font-size: 40px;
 margin-top: 38px;
 border-radius: 15px;
@@ -296,12 +313,55 @@ font-size: 30px;
 
 }
 
-
 body{
-    background-image: url(img/playa.jfif);
+    background-image: url(img/paisaje.jpg);
 background-size: cover;
 
 }
+
+#p1{
+    font-size: 20px;
+    margin-top: -10px;
+
+}
+
+#p2{
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+#p3{
+    font-size: 20px;
+    
+}
+
+#p4{
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+#texto2{
+font-size: 30px;
+position: relative;
+margin-top: -500px;
+}
+
+#texto1{
+    font-size: 30px;
+margin-right: 30px;
+}
+
+#texto3{
+    font-size: 30px;
+ 
+
+}
+
+#texto4{
+    font-size: 30px;
+ 
+}
+
 
 
 

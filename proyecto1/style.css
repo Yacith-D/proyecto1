@@ -197,6 +197,7 @@ border-radius: 15px;
 width: 600px;
 background-color: rgb(184, 172, 173);
 margin-left: 190px;
+color: blue;
 }
 
 
@@ -239,17 +240,68 @@ background-color: aqua;
 
 .container2{
    
-background-color: rgb(255, 255, 255);
-
+    background-color: rgb(168, 168, 168);
 }
 
 
 .container3{
-    background-color: crimson;
+    background-color: rgb(168, 168, 168);
+ 
+}
+
+#contacto{
+margin-left: 60px;
+font-size: 40px;
+margin-top: 38px;
+border-radius: 15px;
+box-shadow: -20px 20px 9px; 
+background-color: rgb(184, 172, 173);;
+width:600px ;
+color: blue;
+}
+
+#correo{
+margin-top: 70px;
+font-size: 30px;
+}
+
+#fwd{
+font-size: 28px;
+color: blue;
+}
+
+#redes{
+font-size: 30px;
+
+}
+
+#face{
+font-size: 30px;
+color: rgb(244, 255, 28);
+}
+
+#insta{
+    font-size: 30px;
+color: purple;
+    }
+
+#visitar{
+font-size: 30px;
+
+}
+
+#com{
+    font-size: 30px;
+  color: palevioletred;
+
 }
 
 
+body{
+    background-image: url(img/playa.jfif);
+background-size: cover;
 
+}
 
 
 

@@ -7,6 +7,8 @@ console.log(boton,input1,input2,input3);
 
 boton.addEventListener("click", function () {
     div1.innerText = input1.value;
+    div1.innerHTML = input2.value;
+
     let mostra1 = document.createElement("p")
   div1.appendChild(mostra1)
 })
